@@ -11,6 +11,7 @@
     background-color: rgb(37, 92, 241) !important;
 }
 
+
 #helloworld:hover{
     animation-name: rot;
     animation-duration: 1s;
@@ -35,3 +36,8 @@
     }
 }
 
+#me{
+    height:255px;
+    width: 255px;
+    border-radius: 50%;
+}
