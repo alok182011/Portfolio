@@ -40,7 +40,7 @@
   .neon {
     font-family: neon;
     color: #fb4264;
-    font-size: 3vw;
+    font-size: 2vw;
     line-height: 7vw;
     text-shadow: 0 0 3vw #f40a35;
     animation: neon 1s ease infinite;
